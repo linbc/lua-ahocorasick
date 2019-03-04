@@ -18,7 +18,7 @@ build = {
 	type = "builtin" ;
 	modules = {
 		[package] = {
-            sources = { "src/ahocorasick.c", "src/node.c", "lahocorasick.c" };
+            sources = { "src/ahocorasick.c", "src/node.c", "src/lahocorasick.c" };
 		} ;
 	} ;
 }
