@@ -11,7 +11,7 @@ dependencies = {
 	"lua >= 5.1"
 }
 external_dependencies = {
-	MULTIFAST = { header = "ahocorasick.h" }
+	--MULTIFAST = { header = "ahocorasick.h" }
 }
 build = {
 	type = "builtin" ;
