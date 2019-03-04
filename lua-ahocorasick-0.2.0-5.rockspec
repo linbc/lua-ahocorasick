@@ -19,8 +19,6 @@ build = {
 	modules = {
 		[package] = {
             sources = { "src/ahocorasick.c", "src/node.c", "lahocorasick.c" };
-			libraries = { "ahocorasick" } ;
-			incdirs = { "$(MULTIFAST_INCDIR)" } ;
 		} ;
 	} ;
 }
